@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/forks/0VEX/portfolio-website?color=%23daff00&label=Forks&style=flat-square">
 </p>
 
-## • • • • • • • • • • • • • • 🌟 Star this Repository if you enjoy my portfolio website !
+##🌟 Star this Repository if you enjoy my portfolio website !
 
 **NOTE:** This website was developed by V E X , please if you want to use the website or share it mention me .
 
