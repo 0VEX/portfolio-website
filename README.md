@@ -10,6 +10,9 @@
 **NOTE:** This website was developed by V E X , please if you want to use the website or share it mention me .
 
 --
+## link of the website : https://0vex.github.io/portfolio-website/
+--
+
 
 # portfolio website ✔
 
