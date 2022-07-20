@@ -7,7 +7,7 @@
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoyed my website!
 
-**NOTE:** This website was developed by V E X , please if you want to use the website or share it mention me .
+**NOTE:** This website was developed by V E X , please if you want to use the website share it or mention me .
 
 ## Link of the website : https://0vex.github.io/portfolio-website/
 
